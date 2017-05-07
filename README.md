@@ -10,6 +10,8 @@ b.Maven
 
 c.JBOSS Server
 
+d.Swagger-UI Chrome Extension
+
 Download this project and follow the follwing steps-
 
 Step1. Build class path using following commands-
