@@ -5,8 +5,8 @@ This is the source code to know how to integrate Swagger in you APIs.
 You need following framework and tools-
 
 a.JAX-RS
-b.Maven
-c.JBOSS Server
+           b.Maven
+                c.JBOSS Server
 
 Download this project and follow the follwing steps-
 Step1. Build class path using following commands-
