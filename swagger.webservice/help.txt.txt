@@ -1,0 +1,19 @@
+@Author-
+Sanjeev Kumar Gupta
+
+This is the sample project for integrate swagger in you JAX-RS code using Maven
+To test this project, kindly clone this project and folllow the following steps to deploy it.
+
+1. Build class path of this project-
+mvn eclipse:clean
+mvn eclipse:eclipse
+
+2. Compile and Create war file-
+mvn clean install
+
+3. Now deploy the genereated war file- swagger.webswervice in JBOSS server
+
+4. And test this in Swagger-UI chrome extension using-
+http://localhost:8080/swagger.webservice
+
+Now enjoy and learn more than you can !!!!!!!!!!!!!!!!!!!!!
