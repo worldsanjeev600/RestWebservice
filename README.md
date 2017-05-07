@@ -1,4 +1,4 @@
-# RestWebservice
+# Swagger Project Setup Guidelines 
 Hi,
 
 This is the source code to know how to integrate Swagger in you APIs.
